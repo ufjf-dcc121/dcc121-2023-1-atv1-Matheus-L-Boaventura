@@ -3,6 +3,9 @@ nav li {
     border: solid 1px;
     padding: 0.5em;
 }
+main{
+    min-height: 264px;
+}
 
 header, footer {
     padding: 2em 1em;
