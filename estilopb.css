@@ -1,0 +1,17 @@
+nav li {
+    display: inline;
+    border: solid 1px;
+    padding: 0.5em;
+}
+
+header, footer {
+    padding: 2em 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(172, 172, 172);
+}
+
+header a {
+    color: rgb(255, 255, 255);
+    background-color: rgb(200, 200, 200);
+    padding: 10px; color:rgb(200, 200, 200)
+}
